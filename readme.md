@@ -1,3 +1,15 @@
+## 一、知识点
+
+1. 为什么需要自动化对象映射？
+
+因为项目开发经常遇到的两大核心问题：如何提高效率、如何提升质量。
+
+2. 它可以做什么？
+
+通过快速实现类对象间的映射（主要解决DTO与模型间的赋值转换）问题，减少编码，从而提高开发效率。
+
+3. 主流技术方案
+
 ## Project Description
 Powerful customisable tool for mapping entities to each other. Entities can be plain objects, DataReaders, SQL commands and anything you need. The tool uses run-time code generation via the Emit library. It is usefull for dealing with DTO objects, data access layers an so on.
 ## Supported platforms:
